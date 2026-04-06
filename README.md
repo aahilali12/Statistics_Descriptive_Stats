@@ -27,7 +27,3 @@ In any data science workflow, descriptive statistics are the essential first ste
 
 ---
 
-## ⚙️ Installation & Setup
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com
